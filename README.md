@@ -16,8 +16,8 @@
 1. [**Linear Search**](https://www.geeksforgeeks.org/linear-search/)
    + One of the options that somebody trying to login as an admin has to verify their account's validity.
    + Also used to verify a student's account when they try to login.
-   + Used to display available books and unavailable books for students.
-   + Used to display all the books whether available or unavailable for admins.
+   + Used to display available books (when borrowing) and unavailable books (when returning) for students.
+   + Used to display all the books whether available or unavailable (when checking the status of all books or removing a book) for admins.
 2. [**Binary Search**](https://www.geeksforgeeks.org/binary-search/)
    + One of the options that somebody trying to login as an admin has to verify their account's validity.
 ### Notes
